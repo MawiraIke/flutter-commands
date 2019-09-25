@@ -1,4 +1,7 @@
 # flutter-commands
+
+![Flutter image!](https://cdn.devdojo.com/posts/images/June2019/be-a-part-of-the-extensive-bootcamp-for-the-flutter1.jpg?auto=compress&w=960&dpr=2 "Flutter image")
+
 Common flutter commands to install, run and build Flutter and Dart projects
 
 
