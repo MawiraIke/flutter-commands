@@ -53,3 +53,13 @@ flutter doctor
 ***
 ## Set up an editor
 
+1. You can use the editor of your choice, but the most common are,
+    1. [Android Studio](https://developer.android.com/studio)
+    2. [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/)
+    3. [IntelliJ IDEA Ultimate (Paid)](https://www.jetbrains.com/idea/download/)
+    4. [Visual Studio Code](https://code.visualstudio.com/)
+    
+2. Install Flutter and Dart plugins.
+3. Create your first flutter project.
+
+
