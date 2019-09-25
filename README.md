@@ -22,22 +22,33 @@ flutter doctor
 1. Official link at [Docs](https://flutter.dev/docs/get-started/install/macos)
 2. Download [Bundle](https://storage.googleapis.com/flutter_infra/releases/stable/macos/flutter_macos_v1.9.1+hotfix.2-stable.zip)
 3. Extract the file in the desired location, i.e,
-        unzip ~/Downloads/flutter_macos_v1.9.1+hotfix.2-stable.zip
+```
+unzip ~/Downloads/flutter_macos_v1.9.1+hotfix.2-stable.zip
+```
 4. Add flutter tool to your path, i.e,
-        export PATH="$PATH:`pwd`/flutter/bin"
+```        
+export PATH="$PATH:`pwd`/flutter/bin"
+```
 5. Run flutter doctor.
-        flutter doctor
-    
+```        
+flutter doctor
+```
+
 #### Linux
 1. Offical link at [Docs](https://flutter.dev/docs/get-started/install/linux)
 2. Download [Bundle](https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.9.1+hotfix.2-stable.tar.xz)
 3. Extract the file to the desired location, i.e,
-        tar xf ~/Downloads/flutter_linux_v1.9.1+hotfix.2-stable.tar.xz
+```        
+tar xf ~/Downloads/flutter_linux_v1.9.1+hotfix.2-stable.tar.xz
+```
 4. Add flutter tool to your path, i.e,
-        export PATH="$PATH:`pwd`/flutter/bin"
+```        
+export PATH="$PATH:`pwd`/flutter/bin"
+```
 5. Run flutter doctor.
-        flutter doctor
-    
+```
+flutter doctor
+```    
     
 ***
 ## Set up an editor
