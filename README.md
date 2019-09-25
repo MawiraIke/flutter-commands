@@ -4,8 +4,6 @@
 
 Common flutter commands to install, run and build Flutter and Dart projects
 
-
-***
 ## Install Flutter
 
 ### Step One
