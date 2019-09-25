@@ -14,7 +14,9 @@ To install flutter follow the directions below as per the different OS.
 3. Extract the zip file and place the contained flutter in the desired installation location for the Flutter SDK (for example, C:\src\flutter; do not install Flutter in a directory like C:\Program Files\ that requires elevated privileges.
 4. Append flutter/bin to environment variables.
 5. Run flutter doctor.
-                flutter doctor
+```
+flutter doctor
+```
 
 #### MacOS
 1. Official link at [Docs](https://flutter.dev/docs/get-started/install/macos)
